@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1385569947 source:c:\users\jvdm\documents\codeblocks\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+
+1385569947 
+
+1385570828 source:/home/kenny/Dropbox/RPG/main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+
+1386178077 source:c:\users\kenny\dropbox\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1386174476 source:c:\users\jelle.v.d.meersche\downloads\rpg\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1385659678 source:c:\users\kenny\dropbox\test\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+
+1386251496 source:c:\users\kenny.van.de.maele\desktop\rpg\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1386365068 source:c:\users\kenny\dropbox\rpg\rpg\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+
+1386854885 source:c:\users\kenny.van.de.maele\desktop\rpg\rpg\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+
+1386860965 source:c:\users\jelle.v.d.meersche\desktop\rpg\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+
+1389389341 source:c:\users\kenny\dropbox\rpg\rpg122\rpg\main.cpp
+	<C:\Users\Kenny\Dropbox\RPG\RPG122\RPG\concol.h>
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<sstream>
+	<math.h>
+
+1389258776 source:c:\users\kenny\dropbox\rpg\rpg122\rpg\resource.rc
+
